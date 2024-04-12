@@ -1,0 +1,4 @@
+repository "wybuchowy szczurek@Wybuchowy_szczurek@cloud"
+  path "/"
+    br "/main"
+    co "/main"
